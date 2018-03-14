@@ -1,0 +1,15 @@
+C:\practice\CliArgs\cliArgs\cliArgsTest\bin\Debug\cliArgsTest.dll
+C:\practice\CliArgs\cliArgs\cliArgsTest\bin\Debug\cliArgsTest.pdb
+C:\practice\CliArgs\cliArgs\cliArgsTest\bin\Debug\cliArgs.dll
+C:\practice\CliArgs\cliArgs\cliArgsTest\bin\Debug\xunit.abstractions.dll
+C:\practice\CliArgs\cliArgs\cliArgsTest\bin\Debug\xunit.assert.dll
+C:\practice\CliArgs\cliArgs\cliArgsTest\bin\Debug\xunit.core.dll
+C:\practice\CliArgs\cliArgs\cliArgsTest\bin\Debug\xunit.execution.desktop.dll
+C:\practice\CliArgs\cliArgs\cliArgsTest\bin\Debug\cliArgs.pdb
+C:\practice\CliArgs\cliArgs\cliArgsTest\bin\Debug\xunit.abstractions.xml
+C:\practice\CliArgs\cliArgs\cliArgsTest\bin\Debug\xunit.assert.xml
+C:\practice\CliArgs\cliArgs\cliArgsTest\bin\Debug\xunit.core.xml
+C:\practice\CliArgs\cliArgs\cliArgsTest\bin\Debug\xunit.execution.desktop.xml
+C:\practice\CliArgs\cliArgs\cliArgsTest\obj\Debug\cliArgsTest.csprojResolveAssemblyReference.cache
+C:\practice\CliArgs\cliArgs\cliArgsTest\obj\Debug\cliArgsTest.dll
+C:\practice\CliArgs\cliArgs\cliArgsTest\obj\Debug\cliArgsTest.pdb

@@ -4,7 +4,7 @@
     {
         public bool GetFlagValue(string flag)
         {
-            throw new System.NotImplementedException();
+            return false;
         }
     }
 }

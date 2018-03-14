@@ -1,0 +1,5 @@
+C:\practice\CliArgs\cliArgs\cliArgs\bin\Debug\cliArgs.dll
+C:\practice\CliArgs\cliArgs\cliArgs\bin\Debug\cliArgs.pdb
+C:\practice\CliArgs\cliArgs\cliArgs\obj\Debug\cliArgs.csprojResolveAssemblyReference.cache
+C:\practice\CliArgs\cliArgs\cliArgs\obj\Debug\cliArgs.dll
+C:\practice\CliArgs\cliArgs\cliArgs\obj\Debug\cliArgs.pdb

@@ -4,7 +4,7 @@
     {
         public ArgsParsingResult Parse(string[] strings)
         {
-            throw new System.NotImplementedException();
+            return new ArgsParsingResult();
         }
     }
 }

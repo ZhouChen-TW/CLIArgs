@@ -6,14 +6,14 @@ namespace cliArgsTest
     public class FlagArgsFact
     {
         [Fact]
-        public void should()
+        public void should_be_false_when_input_empty_string()
         {
             ArgsParser parser = new ArgsParserBuilder()
                 .AddFlagOption("flag", 'f', "This is a description")
                 .Build();
 
-            ArgsParsingResult result = parser.Parse(new [] { "--flag" });
-            Assert.True(result.GetFlagValue("-f"));
+            ArgsParsingResult result = parser.Parse(new [] { "" });
+            Assert.False(result.GetFlagValue("-f"));
         }
     }
 }

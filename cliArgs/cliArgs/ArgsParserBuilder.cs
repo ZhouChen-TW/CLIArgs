@@ -9,7 +9,7 @@
 
         public ArgsParser Build()
         {
-            throw new System.NotImplementedException();
+            return new ArgsParser();
         }
     }
 }
