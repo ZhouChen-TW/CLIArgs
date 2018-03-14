@@ -1,12 +1,15 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace cliArgs
+﻿namespace cliArgs
 {
     public class ArgsParserBuilder
     {
+        public ArgsParserBuilder AddFlagOption(string fullForm, char abbrForm, string description)
+        {
+            return this;
+        }
+
+        public ArgsParser Build()
+        {
+            throw new System.NotImplementedException();
+        }
     }
 }
